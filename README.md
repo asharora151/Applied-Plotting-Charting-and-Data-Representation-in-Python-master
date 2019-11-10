@@ -1,1 +1,2 @@
-# Applied-Plotting-Charting-and-Data-Representation-in-Python-master
+# Applied-Plotting-Charting-and-Data-Representation-in-Python
+Coursera
